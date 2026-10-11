@@ -27,7 +27,7 @@
 
 ---
 
-### `// 01. TERMINAL_INIT :: whoami`
+### `// TERMINAL_INIT :: whoami`
 
 ```bash
 manish@devops-node:~$ whoami --verbose
@@ -45,7 +45,7 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// 02. TECH_STACK :: CORE COMPETENCIES`
+### `// TECH_STACK :: CORE COMPETENCIES`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f3ff" alt="Linux" />
@@ -60,7 +60,7 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// 03. FEATURED_PROJECT :: ACTIVE DEPLOYMENT`
+### `// FEATURED_PROJECT :: ACTIVE DEPLOYMENT`
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// 04. METRICS :: ACTIVITY & ANALYTICS`
+### `// METRICS :: ACTIVITY & ANALYTICS`
 
 <div align="center">
   <table border="0">
@@ -114,7 +114,7 @@ manish@devops-node:~$ whoami --verbose
 
 <div align="center">
 
-  `// 05. SYSTEM_LOGOUT :: EXPLORE REPOSITORIES`
+  `// SYSTEM_LOGOUT :: EXPLORE REPOSITORIES`
 
   <br>
 

@@ -1,142 +1,110 @@
 <div align="center">
 
-  <!-- Cyberpunk Terminal Header Banner -->
-  <img src="./assets/cyberpunk-banner.svg" alt="Sudo-su-wakeup // Cyberpunk Terminal Banner" width="100%">
+  <!-- Header Banner -->
+  <img src="./assets/banner.svg" alt="Welcome to Manish's GitHub" width="100%">
 
   <br><br>
 
-  <!-- Illustrated DevOps Portfolio Hero -->
-  <img src="./assets/manish-devops-hero.jpg" alt="Manish // Cloud & DevOps Engineer" width="850">
-
-  <br><br>
-
-  <!-- Animated Typing Stream -->
-  <a href="https://github.com/Sudo-su-wakeup">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=00F3FF&center=true&vCenter=true&width=680&height=46&lines=%3E+INITIALIZING+CLOUDOPS+ENVIRONMENT...;%3E+FINAL-YEAR+MCA+%7C%7C+CLOUD+COMPUTING+SPECIALIST;%3E+BUILDING+LINUX+%26+BASH+INFRASTRUCTURE+AUTOMATION;%3E+EXPANDING+AWS%2C+DOCKER%2C+TERRAFORM+%26+K8S;%3E+ASPIRING+CLOUD+%26+DEVOPS+ENGINEER" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Connect / Social Links -->
-  <a href="https://github.com/Sudo-su-wakeup">
-    <img src="https://img.shields.io/badge/GitHub-Profile-070a13?style=for-the-badge&logo=github&logoColor=00f3ff&labelColor=0d1117" alt="GitHub Profile" />
+  <!-- Social Link Buttons -->
+  <a href="https://www.linkedin.com/in/manish-yadav-a1a280263/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/manish-yadav-a1a280263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-070a13?style=for-the-badge&logo=linkedin&logoColor=bd00ff&labelColor=0d1117" alt="LinkedIn Profile" />
+  <a href="https://github.com/Sudo-su-wakeup" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sudo-su-wakeup?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/REPOSITORIES-1e3a5f?style=for-the-badge&logo=git&logoColor=70d6ff" alt="Repositories" />
   </a>
 
 </div>
 
 <br>
 
----
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="18" height="18" /> <i>Technologies</i>
+</h3>
 
-```bash
-manish@devops-node:~$ whoami --verbose
-┌───────────────────────┬────────────────────────────────────────────────────────┐
-│ PARAMETER             │ VALUE                                                  │
-├───────────────────────┼────────────────────────────────────────────────────────┤
-│ USER_HANDLE           │ Sudo-su-wakeup                                         │
-│ ACADEMIC_STATUS       │ Final-Year MCA Student (Specializing in Cloud Computing│
-│ TARGET_ROLE           │ Aspiring Cloud & DevOps Engineer                       │
-│ PRIMARY_ENVIRONMENT   │ Windows 11 (Host) + Linux VMs / Cloud Labs (AWS & Azure│
-│ CORE_PURSUIT          │ Infrastructure as Code, Automation, Systems Scripting  │
-│ CURRENT_STATUS        │ Actively building hands-on labs & documenting projects │
-└───────────────────────┴────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-1e3a5f?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/BASH-1e3a5f?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/GIT-1e3a5f?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-1e3a5f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-1e3a5f?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" alt="AWS" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DOCKER-1e3a5f?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+  <img src="https://img.shields.io/badge/TERRAFORM-1e3a5f?style=for-the-badge&logo=terraform&logoColor=844fba" alt="Terraform" />
+  <img src="https://img.shields.io/badge/KUBERNETES-1e3a5f?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1e3a5f?style=for-the-badge&logo=github-actions&logoColor=70d6ff" alt="CI/CD" />
+</p>
 
----
+<br>
 
-<!-- Core Competencies Matrix -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f3ff" alt="Linux" />
-      <br><sub><b>Command Line</b><br>System Administration</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=00f3ff" alt="AWS" />
-      <br><sub><b>Cloud Services</b><br>Scalability &amp; Reliability</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f3ff" alt="Docker" />
-      <br><sub><b>Containerization</b><br>Application Deployment</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=bd00ff" alt="Terraform" />
-      <br><sub><b>IaC</b><br>Cloud Automation</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=bd00ff" alt="Git" />
-      <br><sub><b>Version Control</b><br>Collaboration</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="100%">
-      <h4>
-        <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter">
-          🐧 Linux System Health Reporter
-        </a>
-        &nbsp;<code>[STATUS: VERIFIED & COMPLETED]</code>
-      </h4>
-      <p>
-        A lightweight Bash automation utility engineered to capture vital Linux server diagnostics in real time. Designed for server administrators and cloud instances to rapidly check host metrics without overhead.
-      </p>
-      <ul>
-        <li><b>Hostname & OS Detection:</b> Parses kernel and release details across distributions.</li>
-        <li><b>Uptime & Availability:</b> Extracts accurate instance runtime metrics.</li>
-        <li><b>Memory & Disk Monitoring:</b> Captures active memory consumption and root storage utilization.</li>
-        <li><b>Cloud Verification:</b> Tested in live Linux environments, including AWS EC2.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Language-Bash-bd00ff?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Platform-Linux-00f3ff?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Tested_On-AWS_EC2-232f3e?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS EC2" />
-        <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter">
-          <img src="https://img.shields.io/badge/Explore_Source-→-00f3ff?style=flat-square" alt="Source" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="18" height="18" /> <i>Statistics</i>
+</h3>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sudo-su-wakeup&show_icons=true&theme=radical&bg_color=070a13&title_color=00f3ff&text_color=c9d1d9&icon_color=bd00ff&border_color=1a2744" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sudo-su-wakeup&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=70d6ff&text_color=e2e8f0&icon_color=4361ee" alt="Manish's GitHub Stats" width="410" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-su-wakeup&layout=compact&theme=radical&bg_color=070a13&title_color=00f3ff&text_color=c9d1d9&border_color=1a2744" alt="Top Languages" width="370" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudo-su-wakeup&theme=tokyonight&background=0d1117&border=162b4c&stroke=70d6ff&ring=4361ee&fire=70d6ff&currStreakLabel=70d6ff" alt="GitHub Streak" width="410" />
       </td>
     </tr>
   </table>
-  <sub><i>Note: External metrics cards render live GitHub telemetry.</i></sub>
 </div>
 
----
+<br>
 
-<div align="center">
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="18" height="18" /> <i>About Me</i>
+</h3>
 
-  <p>
-    <b>Curious about my scripts or cloud configurations?</b><br>
-    Feel free to explore my repositories, open an issue, or reach out to connect!
-  </p>
+<table border="0" width="100%">
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/manish-devops-hero.jpg" width="340" alt="Manish - Cloud &amp; DevOps Engineer" style="max-width: 100%; border-radius: 12px;" />
+    </td>
+    <td width="58%" valign="middle">
+      <p>
+        Hello! My name is <b>Manish Yadav</b>, and I am a <b>Final-Year MCA student specializing in Cloud Computing</b>. I am deeply passionate about cloud architecture, systems automation, and building scalable, reliable infrastructure.
+      </p>
+      <p>
+        Currently, I am honing my hands-on skills in <b>Linux</b>, <b>Bash</b>, <b>AWS</b>, <b>Docker</b>, <b>Terraform</b>, and <b>Kubernetes</b>, focusing on containerizing applications, automating deployments, and writing modular infrastructure as code.
+      </p>
+      <p>
+        I enjoy continuous learning, tackling complex cloud infrastructure challenges, and engineering resilient solutions within the Cloud &amp; DevOps ecosystem.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/Sudo-su-wakeup?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse-Repositories-00f3ff?style=for-the-badge&logo=github&logoColor=black" alt="Browse Repositories" />
-  </a>
+<br>
 
-  <br><br>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="18" height="18" /> <i>Hobbies &amp; Goals</i>
+</h3>
 
-  <sub><code>[EOF] CONNECTION TERMINATED — SESSION SAVED</code></sub>
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="75%" valign="middle" align="center">
+      <p>
+        🎓 Final-Year MCA Student specializing in Cloud Computing.
+      </p>
+      <p>
+        <i>"Any sufficiently automated infrastructure is indistinguishable from magic."</i>
+      </p>
+      <p>
+        🐧 <b>Active Project:</b> <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter"><b>Linux System Health Reporter</b></a> &mdash; Real-time server diagnostics in Bash &amp; AWS EC2.
+      </p>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="110" alt="Blastoise Mascot" />
+    </td>
+  </tr>
+</table>

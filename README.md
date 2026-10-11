@@ -27,8 +27,6 @@
 
 ---
 
-### `// TERMINAL_INIT :: whoami`
-
 ```bash
 manish@devops-node:~$ whoami --verbose
 ┌───────────────────────┬────────────────────────────────────────────────────────┐
@@ -45,8 +43,6 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// TECH_STACK :: CORE COMPETENCIES`
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f3ff" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=bd00ff" alt="Bash" />
@@ -59,8 +55,6 @@ manish@devops-node:~$ whoami --verbose
 </p>
 
 ---
-
-### `// FEATURED_PROJECT :: ACTIVE DEPLOYMENT`
 
 <table>
   <tr>
@@ -94,8 +88,6 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// METRICS :: ACTIVITY & ANALYTICS`
-
 <div align="center">
   <table border="0">
     <tr>
@@ -113,10 +105,6 @@ manish@devops-node:~$ whoami --verbose
 ---
 
 <div align="center">
-
-  `// SYSTEM_LOGOUT :: EXPLORE REPOSITORIES`
-
-  <br>
 
   <p>
     <b>Curious about my scripts or cloud configurations?</b><br>

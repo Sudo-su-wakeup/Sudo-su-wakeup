@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- Cyberpunk Banner -->
+  <!-- Cyberpunk Terminal Header Banner -->
   <img src="./assets/cyberpunk-banner.svg" alt="Sudo-su-wakeup // Cyberpunk Terminal Banner" width="100%">
+
+  <br><br>
+
+  <!-- Illustrated DevOps Portfolio Hero -->
+  <img src="./assets/manish-devops-hero.jpg" alt="Manish // Cloud & DevOps Engineer" width="850">
 
   <br><br>
 
@@ -43,16 +48,31 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f3ff" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=bd00ff" alt="Bash" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=00f3ff" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=bd00ff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=00f3ff" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=bd00ff" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00f3ff" alt="Git" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=github-actions&logoColor=bd00ff" alt="CI/CD" />
-</p>
+<!-- Core Competencies Matrix -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f3ff" alt="Linux" />
+      <br><sub><b>Command Line</b><br>System Administration</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=00f3ff" alt="AWS" />
+      <br><sub><b>Cloud Services</b><br>Scalability &amp; Reliability</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f3ff" alt="Docker" />
+      <br><sub><b>Containerization</b><br>Application Deployment</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=bd00ff" alt="Terraform" />
+      <br><sub><b>IaC</b><br>Cloud Automation</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=bd00ff" alt="Git" />
+      <br><sub><b>Version Control</b><br>Collaboration</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

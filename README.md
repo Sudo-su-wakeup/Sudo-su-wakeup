@@ -17,8 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-070a13?style=for-the-badge&logo=github&logoColor=00f3ff&labelColor=0d1117" alt="GitHub Profile" />
   </a>
   &nbsp;
-  <!-- REPLACE THE LINKEDIN URL BELOW WITH YOUR PROFILE HANDLE -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/manish-yadav-a1a280263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-070a13?style=for-the-badge&logo=linkedin&logoColor=bd00ff&labelColor=0d1117" alt="LinkedIn Profile" />
   </a>
 
@@ -95,76 +94,7 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-### `// 04. SYSTEM_DOCS :: EXPANDABLE ARCHIVES`
-
-<details>
-  <summary><b>📂 [CLICK TO EXPAND] Detailed Technical Skills Matrix</b></summary>
-  <br>
-
-| Domain | Tools & Technologies | Focus Area |
-| :--- | :--- | :--- |
-| **Operating Systems & Scripting** | Linux (Ubuntu, Debian, CentOS), Bash, PowerShell | System monitoring, process control, file permissions, shell scripting |
-| **Cloud Computing** | AWS (EC2, VPC, S3, IAM), Azure (Core Services & Labs) | Cloud resource provisioning, networking foundations, identity management |
-| **Containers & Orchestration** | Docker, Docker Compose, Kubernetes (minikube/labs) | Containerizing workloads, image optimization, pod lifecycle management |
-| **Infrastructure as Code (IaC)** | Terraform | Modular infrastructure declarations, state management fundamentals |
-| **Version Control & Workflows** | Git, GitHub, GitHub Actions | Branching strategies, automated workflows, collaborative code reviews |
-
-</details>
-
-<details>
-  <summary><b>📂 [CLICK TO EXPAND] Cloud & DevOps Learning Roadmap</b></summary>
-  <br>
-
-```
-Phase 1: Foundations [COMPLETED]
-  ├── Linux internals, shell navigation, system administration
-  ├── Bash automation scripting & diagnostic logging
-  └── Git version control workflows & repository management
-
-Phase 2: Cloud & Virtualization [IN PROGRESS]
-  ├── AWS core architecture: EC2 instances, VPC subnets, security groups, S3
-  ├── Azure cloud analytics & compute laboratory exercises
-  └── Multi-OS local virtualization on Windows 11 host (WSL2, Hyper-V, VMs)
-
-Phase 3: Containers & Orchestration [IN PROGRESS]
-  ├── Docker containerization: Dockerfiles, multi-stage builds, container networks
-  └── Kubernetes fundamentals: Pods, Services, Deployments, ConfigMaps
-
-Phase 4: Infrastructure as Code & CI/CD Pipelines [UPCOMING]
-  ├── Terraform reusable modules for reproducible AWS infrastructure
-  └── Automated GitHub Actions pipelines for linting, testing, and deployment
-```
-
-</details>
-
-<details>
-  <summary><b>📂 [CLICK TO EXPAND] Engineering Workflow & Philosophy</b></summary>
-  <br>
-
-- **Lab-First Learning:** Theory is reinforced by hands-on sandbox labs (AWS Free Tier, Azure Labs, and local hypervisors on Windows 11).
-- **Automation Over Manual Steps:** If a configuration or diagnostics routine is performed more than twice, it gets scripted in Bash or codified in IaC.
-- **Strict Version Control:** Every lab exercise, script, and configuration is versioned with clean commits and readable documentation.
-- **Honest Engineering Growth:** Transparent progress tracking—documenting what works, debugging failures, and mastering root causes.
-
-</details>
-
-<details>
-  <summary><b>📂 [CLICK TO EXPAND] Project Roadmap (Current vs. Planned)</b></summary>
-  <br>
-
-| Project Title | Target Technologies | Status | Objective |
-| :--- | :--- | :--- | :--- |
-| **Linux System Health Reporter** | Bash, Linux, AWS EC2 | 🟢 **Completed** | Real-time CLI system diagnostics & server telemetry |
-| **Dockerized Microservice Deployment** | Docker, Nginx, Linux | 🟡 *Planned* | Containerizing a multi-tier app with health checks |
-| **Terraform AWS Infrastructure Blueprint** | Terraform, AWS VPC, EC2 | 🟡 *Planned* | Codified, repeatable cloud infrastructure with remote state |
-| **Kubernetes Declarative Cluster Setup** | K8s, Helm, Minikube | 🟡 *Planned* | Manifest-driven cluster orchestration with rolling updates |
-| **End-to-End CI/CD Pipeline** | GitHub Actions, Docker, Cloud | 🟡 *Planned* | Automated build, test, and container registry publishing |
-
-</details>
-
----
-
-### `// 05. METRICS :: ACTIVITY & ANALYTICS`
+### `// 04. METRICS :: ACTIVITY & ANALYTICS`
 
 <div align="center">
   <table border="0">
@@ -184,7 +114,7 @@ Phase 4: Infrastructure as Code & CI/CD Pipelines [UPCOMING]
 
 <div align="center">
 
-  `// 06. SYSTEM_LOGOUT :: EXPLORE REPOSITORIES`
+  `// 05. SYSTEM_LOGOUT :: EXPLORE REPOSITORIES`
 
   <br>
 

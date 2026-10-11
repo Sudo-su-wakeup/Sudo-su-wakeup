@@ -87,14 +87,17 @@
 <br>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="18" height="18" /> <i>Hobbies &amp; Goals</i>
+  <img src="./assets/cricket-icon.png" width="20" height="20" alt="Cricket Bat" /> <i>Hobbies &amp; Goals</i>
 </h3>
 
 <table border="0" width="100%">
   <tr>
-    <td width="75%" valign="middle" align="center">
+    <td width="68%" valign="middle" align="center">
       <p>
-        🎓 Final-Year MCA Student specializing in Cloud Computing.
+        🎓 <b>Final-Year MCA Student</b> specializing in Cloud Computing.
+      </p>
+      <p>
+        🏏 <b>Hobbies:</b> Playing cricket &amp; experimenting with open-source DevOps tooling.
       </p>
       <p>
         <i>"Any sufficiently automated infrastructure is indistinguishable from magic."</i>
@@ -103,8 +106,8 @@
         🐧 <b>Active Project:</b> <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter"><b>Linux System Health Reporter</b></a> &mdash; Real-time server diagnostics in Bash &amp; AWS EC2.
       </p>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="110" alt="Blastoise Mascot" />
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/cricket-bowling.gif" width="190" alt="Cricket Bowling" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>

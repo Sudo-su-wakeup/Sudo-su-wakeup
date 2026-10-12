@@ -12,7 +12,7 @@
 
   <br><br>
 
-  <!-- Social Badges -->
+  <!-- Quick Social Connect -->
   <a href="https://github.com/Sudo-su-wakeup" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f3ff&labelColor=0d1117" alt="GitHub" />
   </a>
@@ -62,21 +62,21 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-<h3 align="center">📊 Statistics</h3>
+<h3 align="center">📊 Live Metrics &amp; Telemetry</h3>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sudo-su-wakeup&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0&icon_color=bd00ff" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sudo-su-wakeup&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0&icon_color=bd00ff" alt="GitHub Stats" width="410" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudo-su-wakeup&theme=tokyonight&background=0d1117&border=162b4c&stroke=00f3ff&ring=bd00ff&fire=00f3ff&currStreakLabel=00f3ff" alt="GitHub Streak" width="400" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudo-su-wakeup&theme=tokyonight&background=0d1117&border=162b4c&stroke=00f3ff&ring=bd00ff&fire=00f3ff&currStreakLabel=00f3ff" alt="GitHub Streak" width="410" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-su-wakeup&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0" alt="Top Languages" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-su-wakeup&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0" alt="Top Languages" width="410" />
       </td>
     </tr>
   </table>
@@ -89,7 +89,7 @@ manish@devops-node:~$ whoami --verbose
 <table border="0" width="100%">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="./assets/manish-devops-hero.jpg" width="320" alt="Manish — Cloud & DevOps Engineer" style="border-radius: 14px; border: 2px solid #162b4c;" />
+      <img src="./assets/manish-devops-hero.jpg" width="330" alt="Manish — Cloud & DevOps Engineer" style="border-radius: 14px; border: 2px solid #162b4c;" />
     </td>
     <td width="60%" valign="middle" style="padding-left: 20px;">
       <p>
@@ -99,7 +99,7 @@ manish@devops-node:~$ whoami --verbose
         Currently honing hands-on skills in <b>Linux</b>, <b>Bash</b>, <b>AWS</b>, <b>Docker</b>, <b>Terraform</b>, and <b>Kubernetes</b> — containerizing applications, automating deployments, and writing modular Infrastructure as Code.
       </p>
       <p>
-        🐧 <b>Active Project:</b> <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter"><b>Linux System Health Reporter</b></a> — Real-time server diagnostics in Bash & AWS EC2.
+        🐧 <b>Active Project:</b> <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter"><b>Linux System Health Reporter</b></a> — Real-time server diagnostics in Bash &amp; AWS EC2.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Language-Bash-bd00ff?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -112,11 +112,88 @@ manish@devops-node:~$ whoami --verbose
 
 ---
 
-<h3 align="center">🏏 Hobbies & Goals</h3>
+<h3 align="center">🚀 Engineering Lab &amp; Interactive Highlights</h3>
+
+<details open>
+  <summary><b>📂 [CLICK TO TOGGLE] Featured Cloud Project: Linux System Health Reporter</b></summary>
+  <br>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h4>
+        <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter">
+          🐧 Linux System Health Reporter
+        </a>
+        &nbsp;<code>[STATUS: VERIFIED &amp; COMPLETED]</code>
+      </h4>
+      <p>
+        A lightweight Bash automation utility engineered to capture vital Linux server diagnostics in real time. Designed for server administrators and cloud instances to rapidly check host metrics without overhead.
+      </p>
+      <ul>
+        <li><b>Hostname &amp; OS Detection:</b> Parses kernel and release details across distributions.</li>
+        <li><b>Uptime &amp; Availability:</b> Extracts accurate instance runtime metrics.</li>
+        <li><b>Memory &amp; Disk Monitoring:</b> Captures active memory consumption and root storage utilization.</li>
+        <li><b>Cloud Verification:</b> Tested in live Linux environments, including AWS EC2.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Sudo-su-wakeup/linux-system-health-reporter">
+          <img src="https://img.shields.io/badge/Explore_Source_Code-→-00f3ff?style=for-the-badge&logo=github&logoColor=black" alt="Source" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary><b>📂 [CLICK TO TOGGLE] Technical Competencies Matrix</b></summary>
+  <br>
+
+| Domain | Stack &amp; Tools | Core Focus |
+| :--- | :--- | :--- |
+| **Operating Systems &amp; Scripting** | Linux (Ubuntu, Debian, CentOS), Bash, PowerShell | Automation scripts, system telemetry, file permissions, shell workflows |
+| **Cloud Infrastructure** | AWS (EC2, VPC, S3, IAM), Azure Labs | Cloud resource provisioning, VPC networking, security policies |
+| **Containers &amp; Orchestration** | Docker, Docker Compose, Kubernetes (minikube/labs) | Containerizing microservices, multi-stage builds, Pod &amp; Service management |
+| **Infrastructure as Code** | Terraform | Reusable modules, plan &amp; apply workflows, cloud state management |
+| **Version Control &amp; CI/CD** | Git, GitHub, GitHub Actions | Version control discipline, automated pipelines, branch governance |
+
+</details>
+
+<details>
+  <summary><b>📂 [CLICK TO TOGGLE] Cloud &amp; DevOps Learning Roadmap</b></summary>
+  <br>
+
+```
+Phase 1: Foundations [COMPLETED]
+  ├── Linux internals, shell navigation, system administration
+  ├── Bash automation scripting & diagnostic logging
+  └── Git version control workflows & repository management
+
+Phase 2: Cloud & Virtualization [IN PROGRESS]
+  ├── AWS core architecture: EC2 instances, VPC subnets, security groups, S3
+  ├── Azure cloud analytics & compute laboratory exercises
+  └── Multi-OS local virtualization on Windows 11 host (WSL2, Hyper-V, VMs)
+
+Phase 3: Containers & Orchestration [IN PROGRESS]
+  ├── Docker containerization: Dockerfiles, multi-stage builds, container networks
+  └── Kubernetes fundamentals: Pods, Services, Deployments, ConfigMaps
+
+Phase 4: Infrastructure as Code & CI/CD Pipelines [UPCOMING]
+  ├── Terraform reusable modules for reproducible AWS infrastructure
+  └── Automated GitHub Actions pipelines for linting, testing, and deployment
+```
+
+</details>
+
+---
+
+<h3 align="center">🎯 Hobbies &amp; Goals</h3>
 
 <table border="0" width="100%">
   <tr>
-    <td width="65%" valign="middle" align="center">
+    <td width="75%" valign="middle" align="center">
       <p>
         🎓 <b>Final-Year MCA Student</b> — specializing in Cloud Computing.
       </p>
@@ -127,8 +204,8 @@ manish@devops-node:~$ whoami --verbose
         <i>"Any sufficiently automated infrastructure is indistinguishable from magic."</i>
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/cricket-bowling.gif" width="200" alt="Cricket Bowling" style="border-radius: 10px;" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="120" alt="Cyber Blastoise Mascot" />
     </td>
   </tr>
 </table>

@@ -65,28 +65,9 @@ const manish = {
 ### 🛠 Tech Stack
 
 <p align="center">
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Bash -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="44" height="44" />&nbsp;&nbsp;
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Azure -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Terraform -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="44" height="44" />&nbsp;&nbsp;
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44" />&nbsp;&nbsp;
-  <!-- Ubuntu -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="44" height="44" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,docker,kubernetes,terraform,git,github,python,ubuntu&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 <br>

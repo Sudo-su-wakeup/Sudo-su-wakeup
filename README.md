@@ -118,28 +118,6 @@
 
 ---
 
-### 📊 Live GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sudo-su-wakeup&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0&icon_color=bd00ff" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudo-su-wakeup&theme=tokyonight&background=0d1117&border=162b4c&stroke=00f3ff&ring=bd00ff&fire=00f3ff&currStreakLabel=00f3ff" alt="GitHub Streak" width="410" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-su-wakeup&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=162b4c&title_color=00f3ff&text_color=e2e8f0" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🐍 Contribution Activity Snake
 
 <div align="center">
